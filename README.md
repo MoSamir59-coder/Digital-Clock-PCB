@@ -14,11 +14,10 @@ I recently designed a complete Digital Clock board from scratch using **Altium D
 ## 🖼️ Project Gallery
 
 ### 3D View
-![Digital Clock 3D View](Images/Screenshot 2026-07-12 141440.png)
+![Digital Clock 3D View](Images/Screenshot%202026-07-12%20141440.png)
 
 ### 2D Routing (Top & Bottom Layers)
-![Digital Clock 2D Routing](Images/Screenshot 2026-07-12 141504.png)
-
+![Digital Clock 2D Routing](Images/Screenshot%202026-07-12%20141504.png)
 ---
 *Always learning and pushing forward in the world of hardware design. Excited for the next challenge! 💪*
 
